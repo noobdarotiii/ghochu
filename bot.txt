@@ -1,0 +1,5 @@
+{
+	"ip":"chaddi_ganggAqD.aternos.me",
+	"port": "44125",
+	"name": "Ghochu"
+}
